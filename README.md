@@ -3,22 +3,22 @@ A memorial web application, Any user can signup and create a memorial of a decea
 
 ![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/login.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/create-mem.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/create-mem-1.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/create-mem-2.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/create-mem-3.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/search.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/tribute.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/post-tribute.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/share.png)
 
-![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/main.png)
+![alt text](https://github.com/ihaseebkhan/MERN-stack-app/blob/master/admin-panel.png)
