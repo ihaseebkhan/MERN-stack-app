@@ -27,7 +27,7 @@
     "react-facebook-login": "^4.1.1",
     "react-intl-tel-input": "^7.1.0",
     "react-phone-number-input": "^3.0.13",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "react-share": "^4.0.1",
     "react-strap": "0.0.1",
     "react-stripe-checkout": "^2.6.3",
